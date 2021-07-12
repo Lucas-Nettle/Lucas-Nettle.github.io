@@ -44,15 +44,6 @@
     </item>
     
     <item>
-      <title>E01- Taller-Croquis</title>
-      <link>https://lucas-nettle.github.io/docs/taller-espacio-ciudad/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://lucas-nettle.github.io/docs/taller-espacio-ciudad/</guid>
-      <description>Encargo donde se fomenta la creatividad mediante el uso de la mano.</description>
-    </item>
-    
-    <item>
       <title>E02-CNC</title>
       <link>https://lucas-nettle.github.io/docs/e02-cnc/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -68,6 +59,24 @@
       
       <guid>https://lucas-nettle.github.io/docs/e02-cnc-grupal/</guid>
       <description>En este encargo se conoce la maquina CNC mediante el programa Fusion 360. Se trabajará mecanizando la Silla Fresia de manera colaborativa en un grupo de 3 estudiantes.</description>
+    </item>
+    
+    <item>
+      <title>E01-Taller-Croquis</title>
+      <link>https://lucas-nettle.github.io/docs/taller-espacio-ciudad/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://lucas-nettle.github.io/docs/taller-espacio-ciudad/</guid>
+      <description>Encargo donde se fomenta la creatividad mediante el uso de la mano.</description>
+    </item>
+    
+    <item>
+      <title>E02-Taller-Referentes</title>
+      <link>https://lucas-nettle.github.io/docs/taller-espacio-ciudad-e02/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://lucas-nettle.github.io/docs/taller-espacio-ciudad-e02/</guid>
+      <description>Encargo donde se busca analizar y comprender referentes sobre el proyecto de Taller</description>
     </item>
     
   </channel>
