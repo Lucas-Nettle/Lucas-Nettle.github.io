@@ -53,12 +53,21 @@
     </item>
     
     <item>
-      <title>E02-CNC-GRUPAL</title>
+      <title>E03-CNC-GRUPAL</title>
       <link>https://lucas-nettle.github.io/docs/e02-cnc-grupal/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://lucas-nettle.github.io/docs/e02-cnc-grupal/</guid>
       <description>En este encargo se conoce la maquina CNC mediante el programa Fusion 360. Se trabajará mecanizando la Silla Fresia de manera colaborativa en un grupo de 3 estudiantes.</description>
+    </item>
+    
+    <item>
+      <title>E04-MECANIZADO-2.5</title>
+      <link>https://lucas-nettle.github.io/docs/e03-mecanizado/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://lucas-nettle.github.io/docs/e03-mecanizado/</guid>
+      <description>En este encargo se trabaja con el mecanizado en 2.5 ejes mediante el programa Fusion 360.</description>
     </item>
     
     <item>
