@@ -79,5 +79,14 @@
       <description>En este encargo se trabaja con el método de simulación y dseño generativo desde el programa Fusion 360.</description>
     </item>
     
+    <item>
+      <title>E05-IMPRESIÓN-3D</title>
+      <link>https://lucas-nettle.github.io/docs/e05-impresi%C3%B3n3d/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://lucas-nettle.github.io/docs/e05-impresi%C3%B3n3d/</guid>
+      <description>En este encargo se conoce la impresión 3D mediante el programa Ultimaker Cura</description>
+    </item>
+    
   </channel>
 </rss>
