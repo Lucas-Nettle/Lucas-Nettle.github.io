@@ -1,82 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Espacio y Ciudad 2021 on Lucas Nettle Valenzuela</title>
-    <link>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/</link>
-    <description>Recent content in Taller Espacio y Ciudad 2021 on Lucas Nettle Valenzuela</description>
+    <title>Taller de Fabricación 2021 on Lucas Nettle - Taller Fabricación 2021</title>
+    <link>https://lucas-nettle.github.io/docs/</link>
+    <description>Recent content in Taller de Fabricación 2021 on Lucas Nettle - Taller Fabricación 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://lucas-nettle.github.io/taller-ciudad-espacio/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://lucas-nettle.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ejemplo Shortcodes</title>
-      <link>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/ejemplo/</link>
-      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      <link>https://lucas-nettle.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/ejemplo/</guid>
+      <guid>https://lucas-nettle.github.io/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/markdown/</link>
-      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      <link>https://lucas-nettle.github.io/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/markdown/</guid>
+      <guid>https://lucas-nettle.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
-      <title>E01-Tema</title>
-      <link>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/e01-tema/</link>
+      <title>Post 1</title>
+      <link>https://lucas-nettle.github.io/docs/post-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/e01-tema/</guid>
-      <description>Encargo donde se busca analizar y comprender referentes sobre el proyecto de Taller</description>
+      <guid>https://lucas-nettle.github.io/docs/post-1/</guid>
+      <description>Contenido de mi post 1 con Hugo</description>
     </item>
     
     <item>
-      <title>E02-Dibujos</title>
-      <link>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/taller-espacio-ciudad/</link>
+      <title>E01-Planimetrías</title>
+      <link>https://lucas-nettle.github.io/docs/planimetr%C3%ADas/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/taller-espacio-ciudad/</guid>
-      <description>Encargo donde se fomenta la creatividad mediante el uso de la mano.</description>
+      <guid>https://lucas-nettle.github.io/docs/planimetr%C3%ADas/</guid>
+      <description>Encargo donde se estudia la silla Eames tanto en su forma como historia.</description>
     </item>
     
     <item>
-      <title>E03-Propuesta de valor</title>
-      <link>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/taller-espacio-ciudad-e02/</link>
+      <title>E02-CNC</title>
+      <link>https://lucas-nettle.github.io/docs/e02-cnc/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/taller-espacio-ciudad-e02/</guid>
-      <description>Encargo donde se busca analizar y comprender referentes sobre el proyecto de Taller</description>
+      <guid>https://lucas-nettle.github.io/docs/e02-cnc/</guid>
+      <description>En este encargo se conoce la maquina CNC mediante el programa Fusion 360. Se trabajará mecanizando la Silla Fresia.</description>
     </item>
     
     <item>
-      <title>E04-Sistemas</title>
-      <link>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/e04-sistemas/</link>
+      <title>E03-CNC-GRUPAL</title>
+      <link>https://lucas-nettle.github.io/docs/e02-cnc-grupal/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/e04-sistemas/</guid>
-      <description>Encargo donde se busca analizar y comprender los sistemas, actores y procesos que comprende el proyecto</description>
+      <guid>https://lucas-nettle.github.io/docs/e02-cnc-grupal/</guid>
+      <description>En este encargo se conoce la maquina CNC mediante el programa Fusion 360. Se trabajará mecanizando la Silla Fresia de manera colaborativa en un grupo de 3 estudiantes.</description>
     </item>
     
     <item>
-      <title>E05-Modelo 3d</title>
-      <link>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/e05-modelo3d/</link>
+      <title>E04-MECANIZADO-2.5</title>
+      <link>https://lucas-nettle.github.io/docs/e03-mecanizado/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/e05-modelo3d/</guid>
-      <description>Encargo donde se muestran modelos 3D para entender de mejor manera el proyecto</description>
+      <guid>https://lucas-nettle.github.io/docs/e03-mecanizado/</guid>
+      <description>En este encargo se trabaja con el mecanizado en 2.5 ejes mediante el programa Fusion 360.</description>
     </item>
     
     <item>
-      <title>E06-Midterm</title>
-      <link>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/e06-midterm/</link>
+      <title>E04-SIMULACIÓN</title>
+      <link>https://lucas-nettle.github.io/docs/e04-simulaci%C3%B3n/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/e06-midterm/</guid>
-      <description>Encargo donde se busca mostrar los avances realizados a mitad de trimestre.</description>
+      <guid>https://lucas-nettle.github.io/docs/e04-simulaci%C3%B3n/</guid>
+      <description>En este encargo se trabaja con el método de simulación y dseño generativo desde el programa Fusion 360.</description>
+    </item>
+    
+    <item>
+      <title>E05-IMPRESIÓN-3D</title>
+      <link>https://lucas-nettle.github.io/docs/e05-impresi%C3%B3n3d/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://lucas-nettle.github.io/docs/e05-impresi%C3%B3n3d/</guid>
+      <description>En este encargo se conoce la impresión 3D mediante el programa Ultimaker Cura</description>
     </item>
     
   </channel>
