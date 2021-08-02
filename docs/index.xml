@@ -88,5 +88,23 @@
       <description>En este encargo se conoce la impresión 3D mediante el programa Ultimaker Cura</description>
     </item>
     
+    <item>
+      <title>E06-MODELADO-3D-DE-SUPERFICIES</title>
+      <link>https://lucas-nettle.github.io/docs/e06-complementario/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://lucas-nettle.github.io/docs/e06-complementario/</guid>
+      <description>En este encargo se conoce el entorno de modelado de &amp;ldquo;Surface&amp;rdquo; mediante el programa Fusion 360.</description>
+    </item>
+    
+    <item>
+      <title>E07-MECANIZADO-DE-MOLDES</title>
+      <link>https://lucas-nettle.github.io/docs/e07-complementario/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://lucas-nettle.github.io/docs/e07-complementario/</guid>
+      <description>En este encargo se conoce el entorno de modelado de &amp;ldquo;Moldes&amp;rdquo; mediante el programa Fusion 360.</description>
+    </item>
+    
   </channel>
 </rss>
