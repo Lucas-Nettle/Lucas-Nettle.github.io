@@ -79,5 +79,14 @@
       <description>Encargo donde se busca mostrar los avances realizados a mitad de trimestre.</description>
     </item>
     
+    <item>
+      <title>E07 Diseño Experimental</title>
+      <link>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/e07-dise%C3%B1o-experimental/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://lucas-nettle.github.io/taller-ciudad-espacio/docs/e07-dise%C3%B1o-experimental/</guid>
+      <description>Encargo donde se busca conocer la materia prima y tener una primera experimentación con esta.</description>
+    </item>
+    
   </channel>
 </rss>
