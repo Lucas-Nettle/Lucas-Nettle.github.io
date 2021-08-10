@@ -106,5 +106,14 @@
       <description>En este encargo se conoce el entorno de modelado de &amp;ldquo;Moldes&amp;rdquo; mediante el programa Fusion 360.</description>
     </item>
     
+    <item>
+      <title>E08-Experimentación Material</title>
+      <link>https://lucas-nettle.github.io/docs/experimentacionmateriales/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://lucas-nettle.github.io/docs/experimentacionmateriales/</guid>
+      <description>Primeras aproximaciones y experimentación con materiales orgánicos para generar un molde biorgánico.</description>
+    </item>
+    
   </channel>
 </rss>
