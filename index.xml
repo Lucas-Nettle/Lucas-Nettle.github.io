@@ -124,5 +124,14 @@
       <description>Modelo 3D preliminar del molde y producto que se quiere fabricar y producir, con sus planimetrías generales.</description>
     </item>
     
+    <item>
+      <title>E09.2 - Producto preliminar 2</title>
+      <link>https://lucas-nettle.github.io/docs/experimentacion2.0/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://lucas-nettle.github.io/docs/experimentacion2.0/</guid>
+      <description>Segunda aproximación y experimentación con materiales y uso de molde.</description>
+    </item>
+    
   </channel>
 </rss>
